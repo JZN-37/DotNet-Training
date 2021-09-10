@@ -10,7 +10,7 @@ public class Test
 	
 	public void func(int a, string b)
 	{
-		Console.WriteLine(" a = {a}, b = {b} ",a, b);
+		Console.WriteLine(a, b);
 	}
 	
 	public int autofunc{get; set;}
@@ -66,14 +66,11 @@ public class Car
     
     public static void Main(string[] args){
         Car c = new Car();
-        c.Name = "XUV500 ";
-        c.Company = "Mahindra ";
-        c.Type = "SUV ";
+        c.Name = "Swift";
+        c.Company = "Suzuki";
+        c.Type = "LMV";
         c.Mileage = 15;
-        c.color = "black";
-
-        Console.WriteLine(c.Company + c.Name + c.Type + c.color + c.Mileage);
-        
+        c.color = "Red";
     }
 }
 
@@ -92,7 +89,6 @@ else
     Console.WriteLine("i is equal to j");
 }
 
-// Ternary Operator
 
 // switch
 switch(i)
@@ -101,21 +97,6 @@ switch(i)
         Console.WriteLine("case A");
         break;
     case 'b':
-        Console.WriteLine("Case B");
-        break;
-    default:
-        Console.WriteLine("Default Case");
-        break;
-}
-
-// here for 'b' and 'c' will execute the same condition
-switch(i)
-{
-    case 'a':
-        Console.WriteLine("case A");
-        break;
-    case 'b':
-    case 'c':
         Console.WriteLine("Case B");
         break;
     default:
