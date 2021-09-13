@@ -1,0 +1,7 @@
+C:\Users\josen\source\repos\PolyMorphism\bin\Debug\PolyMorphism.exe.config
+C:\Users\josen\source\repos\PolyMorphism\bin\Debug\PolyMorphism.exe
+C:\Users\josen\source\repos\PolyMorphism\bin\Debug\PolyMorphism.pdb
+C:\Users\josen\source\repos\PolyMorphism\obj\Debug\PolyMorphism.csproj.AssemblyReference.cache
+C:\Users\josen\source\repos\PolyMorphism\obj\Debug\PolyMorphism.csproj.CoreCompileInputs.cache
+C:\Users\josen\source\repos\PolyMorphism\obj\Debug\PolyMorphism.exe
+C:\Users\josen\source\repos\PolyMorphism\obj\Debug\PolyMorphism.pdb
